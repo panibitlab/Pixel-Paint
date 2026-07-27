@@ -42,34 +42,34 @@ The application provides an intuitive painting interface, built-in pixel art tem
 
 Here's a quick look at the application's main features:
 
-### Paint & Clear
+### 📌 Paint & Clear
 
 <p align="center">
-  <img src="images/draw&clear.gif" width="75%">
+  <img src="images/draw&clear.gif" width="75%" height="75%">
 </p>
 
 ---
 
-### Lock / Unlock Canvas
+### 📌 Lock / Unlock Canvas
 
 <p align="center">
-  <img src="images/lock&unlock.gif" width="75%">
+  <img src="images/lock&unlock.gif" width="75%" height="75%">
 </p>
 
 ---
 
-### Pattern Gallery & Categories
+### 📌 Pattern Gallery & Categories
 
 <p align="center">
-  <img src="images/scrollarea.gif" width="75%">
+  <img src="images/scrollarea.gif" width="75%" height="75%">
 </p>
 
 ---
 
-### Random Pattern
+### 📌 Random Pattern
 
 <p align="center">
-  <img src="images/random.gif" width="75%">
+  <img src="images/random.gif" width="75%" height="75%">
 </p>
 
 ---

@@ -1,0 +1,112 @@
+/* MainWindow */
+QMainWindow {
+    background-color: #172036;
+}
+
+/* PushButtons */
+QPushButton {
+    background-color: #233e82;
+    color: #dbe7ff;
+    border: 2px solid #6c8ec5;
+    border-radius: 8px;
+    padding: 6px;
+    font-size: 22px;
+}
+QPushButton:hover {
+    background-color: #3659a3;
+}
+QPushButton:pressed {
+    background-color: #16284f;
+}
+
+/*Random Button */
+QPushButton#random_btn {
+    background: transparent;
+    border: none;
+    color: #ffd84d;
+    font-size: 38px;
+    padding-top: -6px;
+}
+QPushButton#random_btn:hover {
+    color: #fff06a;
+}
+QPushButton#random_btn:pressed {
+    color: #c5aa00;
+}
+
+/* Matrix Frame */
+QWidget#matrixFrame {
+    background-color: #0f172b;
+    border: 3px solid #2f4573;
+    border-radius: 12px;
+}
+
+/* Scroll Area */
+QScrollArea {
+    background: transparent;
+    border: none;
+}
+QScrollArea#Scroll {
+    background: transparent;
+    border: none;
+}
+
+/* Container */
+QWidget#Container {
+    background-color: #111a2e;
+    border: 2px solid #2f4573;
+    border-radius: 12px;
+}
+
+/* Pattern Buttons */
+QPushButton#preview {
+    background-color: #1c2949;
+    border: 2px solid #324b7e;
+    border-radius: 10px;
+    padding: 2px;
+}
+QPushButton#preview:hover {
+    background-color: #293d68;
+    border: 2px solid #a81d1d;
+}
+QPushButton#preview:pressed {
+    background-color: #131f39;
+    border: 2px solid #d82b2b;
+}
+
+/* Horizontal ScrollBar */
+QScrollBar:horizontal {
+    background: #0f172b;
+    height: 12px;
+    border-radius: 6px;
+    margin: 2px;
+}
+QScrollBar::handle:horizontal {
+    background: #3a5287;
+    min-width: 38px;
+    border-radius: 10px;
+    margin: 1px 0px;
+}
+QScrollBar::handle:horizontal:hover {
+    background: #5878bc;
+}
+QScrollBar::handle:horizontal:pressed {
+    background: #6d91db;
+}
+QScrollBar::add-line:horizontal,
+QScrollBar::sub-line:horizontal {
+    width: 0px;
+}
+QScrollBar::add-page:horizontal,
+QScrollBar::sub-page:horizontal {
+    background: transparent;
+}
+
+/* Tool Tips */
+QToolTip {
+    background-color: #1b2744;
+    color: white;
+    border: 1px solid #5878bc;
+    border-radius: 5px;
+    padding: 4px;
+}

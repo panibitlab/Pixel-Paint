@@ -45,7 +45,7 @@ Here's a quick look at the application's main features:
 ### 📌 Paint & Clear
 
 <p align="center">
-  <img src="images/draw&clear.gif" width="500">
+  <img src="images/draw&clear.gif" width="350">
 </p>
 
 ---
@@ -53,7 +53,7 @@ Here's a quick look at the application's main features:
 ### 📌 Lock / Unlock Canvas
 
 <p align="center">
-  <img src="images/lock&unlock.gif" width="500">
+  <img src="images/lock&unlock.gif" width="350">
 </p>
 
 ---
@@ -61,7 +61,7 @@ Here's a quick look at the application's main features:
 ### 📌 Pattern Gallery & Categories
 
 <p align="center">
-  <img src="images/scrollarea.gif" width="500">
+  <img src="images/scrollarea.gif" width="350">
 </p>
 
 ---
@@ -69,7 +69,7 @@ Here's a quick look at the application's main features:
 ### 📌 Random Pattern
 
 <p align="center">
-  <img src="images/random.gif" width="500">
+  <img src="images/random.gif" width="350">
 </p>
 
 ---

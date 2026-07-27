@@ -45,34 +45,26 @@ Here's a quick look at the application's main features:
 ### 📌 Paint & Clear
 
 <p align="center">
-  <img src="images/draw&clear.gif" width="350">
+  <img src="images/draw&clear.gif" width="300">
 </p>
-
----
 
 ### 📌 Lock / Unlock Canvas
 
 <p align="center">
-  <img src="images/lock&unlock.gif" width="350">
+  <img src="images/lock&unlock.gif" width="300">
 </p>
-
----
 
 ### 📌 Pattern Gallery & Categories
 
 <p align="center">
-  <img src="images/scrollarea.gif" width="350">
+  <img src="images/scrollarea.gif" width="300">
 </p>
-
----
 
 ### 📌 Random Pattern
 
 <p align="center">
-  <img src="images/random.gif" width="350">
+  <img src="images/random.gif" width="300">
 </p>
-
----
 
 ### 🎥 Full Demo
 
